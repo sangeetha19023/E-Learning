@@ -1,0 +1,6 @@
+Courses,,,,,,,,
+,id,course_id,course_name,start_date,end_date,instructor_name,duration,course_details
+,,,,,,,,
+,,,,,,,,
+Users,,,,,,,,
+,user-id,user-name,user-password,created-on-type,,,,
